@@ -1,0 +1,6 @@
+[submodule "simple-search-engine"]
+	path = simple-search-engine
+	url = git@github.com:Stingray42/simple-search-engine.git
+[submodule "coffee-machine"]
+	path = coffee-machine
+	url = git@github.com:Stingray42/coffee-machine.git
